@@ -1,0 +1,31 @@
+
+.abc{
+    margin: 0px auto;
+}
+
+.navbar{
+    height: 60px;
+    width: ;
+    background-color: #F5F0EE;
+    
+}
+.logo{
+    height: 40px;
+    margin-left: 430px;
+}
+.navkeys{
+    margin-right: 350px;
+    
+}
+.keys{
+    margin: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+}
+.crouselimg{
+    height: 300px;
+    width: 1535px;
+}
+.card{
+    height: 50px;
+}
