@@ -1,0 +1,36 @@
+.contact{
+    display: flex;
+    justify-content: space-around;
+}
+.map{
+    height: 550px;
+    width: 500px;
+}
+.form-heading{
+    font-weight: 700;
+    /* margin-top: 50px; */
+    margin: 100px;
+    text-align: center;
+    color: rgb(226, 40, 102);
+}
+.c-dotted{
+    color: rgb(227, 131, 163);
+}
+.form{
+    border: 2px solid black;
+    height: 600px;
+    width: 500px;
+    padding: 50px;
+    /* margin-left: 100px; */
+}
+.form-text{
+    margin: 30px;
+    margin-left: 40px;
+
+}
+.form-button{
+    margin-left: 180px;
+}
+.space{
+    /* margin: 40px; */
+}

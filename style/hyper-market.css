@@ -1,0 +1,34 @@
+.h-flex{
+   margin-left: 600px;
+}
+
+/* .m-hyper{
+    margin: 40px;
+} */
+.hyper-poster{
+    height: 400px;
+    width: 100%;
+  }
+.hyper-heading{
+    color: rgb(226, 40, 102);
+    margin-top: 50px;
+    margin-bottom: 30px;
+   text-align: center;
+  
+  }
+  .hyper-dotted{
+     color: rgb(227, 131, 163);
+  }
+
+.main-hyper{
+     display: flex;
+     justify-content: space-evenly;
+     flex-wrap: wrap;
+     
+     
+}
+.hyper-collapse-img{
+    height: 100px;
+    width: 100px;
+    /* border: 1px solid black; */
+  }

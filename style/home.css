@@ -1,31 +1,342 @@
+.abc {
+    /* margin: 0px auto; */
+    /* background-color:gray; */
 
-.abc{
-    margin: 0px auto;
 }
 
-.navbar{
+.navbar {
     height: 60px;
-    width: ;
+    /* width: ; */
     background-color: #F5F0EE;
-    
+
 }
-.logo{
+
+.logo {
     height: 40px;
     margin-left: 430px;
 }
-.navkeys{
+
+.navkeys {
     margin-right: 350px;
-    
+
 }
-.keys{
+
+.keys {
     margin: 10px;
     font-family: Arial, Helvetica, sans-serif;
     color: black;
 }
-.crouselimg{
-    height: 300px;
+
+.crouselimg {
+    height: 400px;
     width: 1535px;
 }
-.card{
+
+.second {
+    background-color: rgb(188, 20, 62);
+    height: fit-content;
+    width: 100vw;
+    margin-top: 50px;
+    padding: 50px;
+    display: flex;
+    justify-content: center;
+}
+
+.secc {
+    margin: 58px;
+}
+
+.sec1 {
+    color: whitesmoke;
+    font-family: "Poppins", sans-serif;
+    font-size: 35px;
+    text-align: center;
+    font-weight: 800;
+}
+
+.sec2 {
+    text-align: center;
+color: white;
+    font-family: 'precioussansthin', verdana, Arial;
+    font-size: 22px;
+    font-weight: 500;
+}
+
+.sec3 {
+    text-align: center;
+    color: white;
+}
+
+.secimg {
+    height: 200px;
+    border-radius: 50%;
+}
+
+.card {
     height: 50px;
+}
+
+
+.crousel {
+    height: 600px;
+    width: 100vw;
+}
+
+.cardd {
+    margin-top: 60PX;
+}
+
+.card1 {
+
+    height: 400px;
+    /* background-image: linear-gradient(black , rgb(248, 244, 244)) , url("https://seasonsmall.in/wp-content/uploads/2021/10/01LC.jpeg"); */
+    background-image: url(https://seasonsmall.in/wp-content/uploads/2021/10/01LC.jpeg);
+    /* opacity: 0.7; */
+    transition: 2s;
+    /* padding: 200px */
+    
+
+}
+
+
+.card2 {
+
+    height: 400px;
+    background-image: url(https://seasonsmall.in/wp-content/uploads/2022/01/1.webp);
+}
+
+.card3 {
+
+    height: 400px;
+    background-image: url(https://seasonsmall.in/wp-content/uploads/2021/10/868fcb734126ad6321ab6ed68647452a.jpeg);
+}
+
+.card4 {
+
+    height: 400px;
+    background-image: url(https://seasonsmall.in/wp-content/uploads/2021/10/15413986249631.jpeg);
+}
+
+.card5 {
+
+    height: 400px;
+    background-image: url(https://seasonsmall.in/wp-content/uploads/2021/10/IMG_0747.jpeg);
+}
+
+.card6 {
+
+    height: 400px;
+    background-image: url(https://seasonsmall.in/wp-content/uploads/2021/12/Cinema.jpg);
+}
+
+.card7 {
+
+    height: 400px;
+    background-image: url(https://seasonsmall.in/wp-content/uploads/2021/12/Cinema.jpg);
+}
+
+
+.cimg {}
+
+.cardtxt {
+    margin-top: 200px;
+}
+
+.cardhead1{
+    margin-bottom: 100px;
+    margin-left: -100px;
+    font-family: "Poppins", sans-serif;
+    font-size: 26px;
+    font-weight: bold;
+}
+.cardhead2 {
+    margin-bottom: 100px;
+    margin-left: -48px;
+    font-family: "Poppins", sans-serif;
+    font-size: 26px;
+    font-weight: bold;
+}
+.cardhead3 {
+    margin-bottom: 100px;
+    margin-left: -100px;
+    /* margin-right: 900px; */
+    font-family: "Poppins", sans-serif;
+    font-size: 26px;
+    font-weight: bold;
+}
+.cardhead4 {
+    margin-bottom: 100px;
+    margin-left: -150px;
+    /* margin-right: 1000px; */
+    font-family: "Poppins", sans-serif;
+    font-size: 26px;
+    font-weight: bold;
+}
+.cardhead5 {
+    margin-bottom: 100px;
+    margin-left: -100px;
+    font-family: "Poppins", sans-serif;
+    font-size: 26px;
+    font-weight: bold;
+}
+.cardhead6 {
+    margin-bottom: 100px;
+    margin-left: -100px;
+    font-family: "Poppins", sans-serif;
+    font-size: 26px;
+    font-weight: bold;
+}
+
+.butn {
+    margin-left: -210px;
+    margin-top: 10px;
+
+}
+
+.main-posterr {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.poster {
+    margin-top: 130px;
+    margin-left: 10px;
+    background-image: url(https://bengaluru.lulumall.in/wp-content/uploads/2022/03/global-mall-banners_fashion-2-11-1.jpg);
+    background-size: cover;
+    /* background-image: url(https://bengaluru.lulumall.in/wp-content/uploads/2022/03/global-mall_food-banner-1.jpg); */
+    background-color: rgb(146, 13, 57);
+    height: 690px;
+    width: 900px;
+
+}
+
+.posterr {
+    /* margin-top: 60px; */
+    /* background-image: url(https://s.tmimgcdn.com/scr/1200x627/215100/realistic-fast-food-horizontal-poster-200900707-vector-illustration-concept_215130-original.jpg); */
+    /* background-size: cover; */
+    /* background-image: url(https://bengaluru.lulumall.in/wp-content/uploads/2022/03/global-mall_food-banner-1.jpg); */
+    /* background-color: rgb(146, 13, 57); */
+    /* height: 690px; */
+    /* width: 0px; */
+
+}
+
+.poster-txt {
+    margin-left: 50px;
+    padding-top: 100px;
+    font-size: 50px;
+    font-family: "Poppins", sans-serif;
+    font-weight: bold;
+    color: whitesmoke;
+
+}
+
+.poster_button {
+    margin-top: 30px;
+    margin-left: 50px;
+}
+
+.heading {
+    font-weight: 700;
+    /* margin-top: 50px; */
+    margin: 100px;
+    text-align: center;
+    color: rgb(226, 40, 102);
+
+}
+
+.poster-1 {
+    margin-top: 150px;
+    background-image: url(https://bengaluru.lulumall.in/wp-content/uploads/2022/03/1-min-1.jpg);
+    background-size: cover;
+    /* width: 120%; */
+    height: 700px;
+
+}
+
+.poster-txt1 {
+    margin-left: 50px;
+    padding-top: 250px;
+    font-size: 50px;
+    font-family: "Poppins", sans-serif;
+    font-weight: bold;
+    color: whitesmoke;
+
+}
+
+.poster_button1 {
+    margin-top: 50px;
+    margin-left: 50px;
+}
+
+.heading-2 {
+    margin: 100px;
+    text-align: center;
+    font-weight: 700;
+    color: rgb(226, 40, 102);
+
+}
+
+.dotted {
+    color: rgb(227, 131, 163);
+}
+
+.heading-2img {
+    margin-bottom: 30px;
+    background-image: url(../images/panipuri\ img.jpeg);
+    height: 452px;
+    background-size: cover;
+    /* width: 100%; */
+}
+
+@media screen and (max-width:700px) {
+    .heading-2img{
+        height: 200px;
+        width: 600px;
+    }
+    
+}
+
+.main-crousal {
+    display: flex;
+    justify-content: space-around;
+
+}
+
+.service-cards{
+    display: flex;
+    /* flex-direction: column; */
+    flex-wrap: wrap;
+}
+
+.card-crousal {
+
+    height: 500px;
+    width: 400px;
+}
+
+.ecohead {
+    /* margin-top: 68px; */
+    /* font-size: px; */
+    /* font-family: cursive; */
+    /* color: #0b49a6; */
+    height: 200px;
+}
+
+
+.footer {
+    background-color: #dee2e6;
+    height: auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.foot {
+    margin-top: 40px;
+}
+
+.footer-head {
+    font-size: 30px;
+    font-weight: 500;
 }

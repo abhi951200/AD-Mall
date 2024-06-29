@@ -1,18 +1,24 @@
-.electronic-poster{
-    height: 600px;
-}
-.electronic-heading{
+.food-heading{
     color: rgb(226, 40, 102);
     margin-top: 50px;
     margin-bottom: 30px;
    text-align: center;
  
  }
- .electronic-dotted{
+ .food-dotted{
      color: rgb(227, 131, 163);
  }
+ .cardd{
+    /* margin-top: 3px; */
+    /* margin-bottom: 10px; */
+   
+ }
+ .aa{
+    /* border: 1px solid gold; */
+    padding: 15px;
+ }
 
-.main-collapse{
+ .main-collapse{
     margin-left: 577px;
 }
 .collapse-img{

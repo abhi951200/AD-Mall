@@ -1,0 +1,49 @@
+.f-flex{
+  margin-left: 600px;
+}
+.footwear-poster{
+  height: 600px;
+}
+.footwear-heading{
+  color: rgb(226, 40, 102);
+  margin-top: 50px;
+  margin-bottom: 30px;
+ text-align: center;
+
+}
+.footwear-dotted{
+   color: rgb(227, 131, 163);
+}
+
+.main-collapse{
+  margin-left: 577px;
+}
+.main-footwear{
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+  
+  
+}
+.footwear-collapse-img{
+ height: 100px;
+ width: 100px;
+ /* border: 1px solid black; */
+}
+
+.collapse-img{
+  height: 100px;
+  width: 100px;
+  /* border: 1px solid black; */
+}
+.collapse-button{
+  background-color:rgb(226, 40, 102) ;
+  /* back-color:  rgb(226, 40, 102) */
+}
+.cc{
+ /* border: 1px solid black; */
+ padding: 20px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  }

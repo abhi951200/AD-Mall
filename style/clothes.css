@@ -1,0 +1,42 @@
+*{
+    /* background-color: gray; */
+    margin: 0%;
+}
+.cloth-card{
+transition: 1s;
+}
+.cloth-card:hover{
+    transform: scale(0.9);
+    
+}
+.collapse-heading{
+   color: rgb(226, 40, 102);
+   margin-top: 50px;
+   margin-bottom: 30px;
+  text-align: center;
+
+}
+.collapse-dotted{
+    color: rgb(227, 131, 163);
+}
+.main-collapse{
+    margin-left: 577px;
+}
+.collapse-img{
+    height: 100px;
+    width: 100px;
+    /* border: 1px solid black; */
+}
+.collapse-button{
+    background-color:rgb(226, 40, 102) ;
+    /* back-color:  rgb(226, 40, 102) */
+}
+.cc{
+   /* border: 1px solid black; */
+   padding: 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    
+    
+}

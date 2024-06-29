@@ -1,0 +1,46 @@
+.about-poster{
+    background-image: url(https://cdn.britannica.com/99/163599-159-38EB382F/Shopping-mall-Prague.jpg);
+    height: 450px;
+
+}
+
+.about-poster-txt{
+    text-align: center;
+    padding-top: 200PX;
+    font-size: 50px;
+    font-weight: bolder;
+    color: whitesmoke;
+    opacity:(0.9);
+
+}
+.about{
+    display: flex;
+    justify-content: space-between;
+    /* flex-wrap: wrap; */
+    flex-direction: column;
+    border: 2px soid black;
+}
+.about-txt{
+    border: 2px soid black;
+    text-align: center;
+}
+.about-img1{
+height: 300px;
+
+}
+.about-img1{
+    height: 300px;
+    
+    }
+.about-img1{
+        height: 300px;
+        
+ }
+ .about-img1{
+    height: 300px;
+    
+}
+.about-img1{
+    height: 300px;
+    
+    }

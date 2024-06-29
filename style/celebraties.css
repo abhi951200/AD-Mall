@@ -1,0 +1,38 @@
+.celebraty-poster{
+    background-image: url(https://www.treebo.com/blog/wp-content/uploads/2018/02/Shopping-Malls-in-Delhi.jpg);
+    height: 400px;
+}
+.celebraty-poster-heading{
+    text-align: center;
+    padding-top: 200PX;
+    font-size: 50px;
+    font-weight: bolder;
+    color: whitesmoke;
+    opacity:(0.9);
+}
+.coll{
+    margin: -80px;
+    margin-bottom: 10px
+}
+.celebratie-card{
+    margin-top: 50px;
+    height: 250px;
+    width:300px;
+    /* margin: 120px; */
+    margin-left: 350px;
+    transition: 1s;
+}
+.celebratie-card:hover{
+    cursor: pointer;
+    transform: scale(1.1);
+    
+    
+
+}
+/* .celebratie-card{
+    margin-top: 50px;
+    height: 250px;
+    width:300px;
+    /* margin: 120px; */
+    /* margin-left: 100px; */
+/* }  */

@@ -1,0 +1,7 @@
+.main-card{
+    display: flex;
+    justify-content: space-around;
+}
+.card-img{
+    height:50px;
+}
